@@ -1,0 +1,13 @@
+{
+	"name": "Deep Fried Headsets",
+	"version": "3.2.1",
+	"sptVersion": "~3.11",
+	"author": "shwng",
+	"contributors": [],
+	"license": "MIT",
+	"isBundleMod": false,
+	"loadBefore": ["ServerValueModifier"],
+	"loadAfter": [],
+	"incompatibilities": [],
+	"main": "src/mod.js"
+}
